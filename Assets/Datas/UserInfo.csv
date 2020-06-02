@@ -1,0 +1,5 @@
+﻿인덱스,이름,나이,성별,등급,전화번호,이메일
+int,string,int,string,string,string,string
+1001,박원석,39,남,A,010-1111-1111,park@gmail.com
+1002,김현진,37,남,B,010-2222-2222,kim@naver.com
+1003,박현상,36,남,C,010-3333-3333,Sang@daum.net
